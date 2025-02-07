@@ -10,7 +10,7 @@ fields:
   datatype: number
 ---
 question: |
-  % if best_number == 42:
+  % if best_number == 10:
   That's **my** favorite number!
   % else:
   What a _lousy_ favorite number.
